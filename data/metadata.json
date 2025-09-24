@@ -1,0 +1,12 @@
+{
+  "num_total": 38244,
+  "num_train": 37480,
+  "num_val": 764,
+  "include": [
+    "squad",
+    "squad_v2",
+    "trivia_qa"
+  ],
+  "seed": 42,
+  "system": "You are a careful reading-comprehension assistant. Use ONLY the provided passage to answer the question."
+}
